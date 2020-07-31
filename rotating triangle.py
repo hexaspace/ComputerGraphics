@@ -1,4 +1,7 @@
+# hexa computer graphics 04
 # rotating triangle 2d
+#################################################
+
 
 import glfw
 from OpenGL.GL import *
